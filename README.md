@@ -1,3 +1,3 @@
 # playground
 
-![alt text](File_Small-mario.png)
+![Alt text](/File_Small-mario.png?raw=true "Title")
