@@ -1,3 +1,3 @@
 # playground
 
-![Alt text](/File_Small-mario.png?raw=true "Title")
+![Alt text](https://vignette.wikia.nocookie.net/fantendo/images/6/6e/Small-mario.png)
